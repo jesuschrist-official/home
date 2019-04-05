@@ -1,0 +1,16 @@
+Aide de Git
+
+ Configuration
+
+	Définir le nom de l'utilisateur et son email :
+	$ git config user.name "Jesus Christ"
+	$ git config user.email "jesus-christ-official@protonmail.com"
+
+	Définir un éditeur par défaut :
+	$ git config core.editor vim
+
+	Définir un alias :
+	$ git config alias.<alias> <command>
+
+	Définir un remote distant :
+	$ git remote add origin https://...
