@@ -1,0 +1,4 @@
+# JC .gitignore for his home/
+
+.bash_history
+.viminfo
