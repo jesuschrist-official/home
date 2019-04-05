@@ -1,4 +1,7 @@
 # JC .gitignore for his home/
 
 .bash_history
+
+# ViM
 .viminfo
+*.sw[op]
